@@ -96,4 +96,4 @@ This project delivers a fully functional, production-style ELT pipeline that tra
 **Sai Deepak Poondla**
 Data Analyst | Power BI | SQL | Python | Tableau
 
-[LinkedIn](https://www.linkedin.com/in/your-linkedin-handle) | [Portfolio](https://your-portfolio-link.com)
+[LinkedIn](http://www.linkedin.com/in/sai-deepak-poondla-7143ba21a) | [Portfolio]([https://your-portfolio-link.com](https://necessary-quark-0ca.notion.site/Sai-Deepak-s-Portfolio-2e8174c2c52d8067aec8c582e216b1bb)
